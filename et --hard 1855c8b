@@ -1,8 +1,0 @@
-[33mebcb11c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/flutter-ui[m[33m, [m[1;31morigin/feature/flutter-ui[m[33m)[m resolved
-[33m3103adb[m updated backlog file
-[33m19c5396[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Revert "Merge pull request #1 from EstimaX-AI/feature/flutter-ui"
-[33mc48deee[m Merge pull request #1 from EstimaX-AI/feature/flutter-ui
-[33m1855c8b[m feat: Flutter UI implementation
-[33me73a436[m feat: initial Flutter UI changes
-[33m396d927[m feat: updated readme
-[33mceb93bb[m Initial commit

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:untitled2/Screens/dashboard.dart';
+import 'package:untitled2/screens/dashboard.dart';
 
 void main() {
   runApp(MyApp());
